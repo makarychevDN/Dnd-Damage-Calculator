@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnd damage", "dnd damage\dnd damage.csproj", "{E0B7A556-81E4-482F-A7D8-4FCA601BFF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B7A556-81E4-482F-A7D8-4FCA601BFF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B7A556-81E4-482F-A7D8-4FCA601BFF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B7A556-81E4-482F-A7D8-4FCA601BFF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B7A556-81E4-482F-A7D8-4FCA601BFF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F570556-87B4-497C-8AA7-CD97350EEE78}
+	EndGlobalSection
+EndGlobal
